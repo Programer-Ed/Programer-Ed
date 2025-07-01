@@ -1,4 +1,5 @@
 <img src="banner.png" alt="Banner" width="100%" />
+
 # 💫 About Me:
 - 🔭 I’m currently working on: AI-powered portfolio tools & HR tech solutions  <br>- 🌱 I’m learning: Cybersecurity fundamentals & DevOps  <br>- 💬 Ask me about: React, Python, Flask, Django, FastAPI  <br>- 📫 How to reach me: **edwin.nganga.tech@gmail.com**  <br>- 🧠 Fun Fact: I don't eat wheat & I love anime references in my code.  <br>
 
