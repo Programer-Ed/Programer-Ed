@@ -1,7 +1,7 @@
 <img src="banner.webp" alt="Banner" width="100%" />
 
 # 💫 About Me:
-- 🔭 I’m currently working on: AI-powered portfolio tools & HR tech solutions  <br>- 🌱 I’m learning: Cybersecurity fundamentals & DevOps  <br>- 💬 Ask me about: React, Python, Flask, Django, FastAPI  <br>- 📫 How to reach me: **edwin.nganga.tech@gmail.com**  <br>- 🧠 Fun Fact: I don't eat wheat & I love anime references in my code.  <br>
+- 🔭 I’m currently working on: AI-powered portfolio tools & HR tech solutions  <br>- 🌱 I’m learning: Cybersecurity fundamentals & DevOps  <br>- 💬 Ask me about: React, Python, Flask, Django, FastAPI  <br>- 📫 How to reach me: **edwin.nganga.tech@gmail.com**  <br>- 🧠 Fun Fact:  I love anime references in my code.  <br>
 
 
 ## 🌐 Socials:
@@ -17,4 +17,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Programer-Ed&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
